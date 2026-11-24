@@ -1,0 +1,6 @@
+[project]
+name = "automatic-book-page-turner"
+version = "0.1.0"
+description = "MuJoCo automatic book page-turning robot simulation project"
+requires-python = ">=3.11"
+dependencies = ["mujoco>=3.3"]
